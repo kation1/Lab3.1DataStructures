@@ -1,0 +1,13 @@
+C:\devbuild\Week3\Lab3.3DataStructures\bin\Debug\netcoreapp3.1\Lab3.3DataStructures.exe
+C:\devbuild\Week3\Lab3.3DataStructures\bin\Debug\netcoreapp3.1\Lab3.3DataStructures.deps.json
+C:\devbuild\Week3\Lab3.3DataStructures\bin\Debug\netcoreapp3.1\Lab3.3DataStructures.runtimeconfig.json
+C:\devbuild\Week3\Lab3.3DataStructures\bin\Debug\netcoreapp3.1\Lab3.3DataStructures.runtimeconfig.dev.json
+C:\devbuild\Week3\Lab3.3DataStructures\bin\Debug\netcoreapp3.1\Lab3.3DataStructures.dll
+C:\devbuild\Week3\Lab3.3DataStructures\bin\Debug\netcoreapp3.1\Lab3.3DataStructures.pdb
+C:\devbuild\Week3\Lab3.3DataStructures\obj\Debug\netcoreapp3.1\Lab3.3DataStructures.csprojAssemblyReference.cache
+C:\devbuild\Week3\Lab3.3DataStructures\obj\Debug\netcoreapp3.1\Lab3.3DataStructures.AssemblyInfoInputs.cache
+C:\devbuild\Week3\Lab3.3DataStructures\obj\Debug\netcoreapp3.1\Lab3.3DataStructures.AssemblyInfo.cs
+C:\devbuild\Week3\Lab3.3DataStructures\obj\Debug\netcoreapp3.1\Lab3.3DataStructures.csproj.CoreCompileInputs.cache
+C:\devbuild\Week3\Lab3.3DataStructures\obj\Debug\netcoreapp3.1\Lab3.3DataStructures.dll
+C:\devbuild\Week3\Lab3.3DataStructures\obj\Debug\netcoreapp3.1\Lab3.3DataStructures.pdb
+C:\devbuild\Week3\Lab3.3DataStructures\obj\Debug\netcoreapp3.1\Lab3.3DataStructures.genruntimeconfig.cache
